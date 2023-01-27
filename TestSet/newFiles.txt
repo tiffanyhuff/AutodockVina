@@ -8,4 +8,3 @@ TestSet/1/ZINC00000567.pdbqt
 TestSet/1/ZINC00001187.pdbqt
 TestSet/1/ZINC00001567.pdbqt
 TestSet/1/ZINC00001099.pdbqt
-
